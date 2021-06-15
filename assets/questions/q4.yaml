@@ -1,0 +1,105 @@
+
+# //   2021-06-08   12:25:06.40 :- Dragus Alex :-  
+# q:
+#   # b
+#   q
+
+  # a1:
+  #   a1
+    
+  #   v:
+  #     t
+    
+  # a1:
+  #   a1
+  
+  # v:
+  #   t
+  
+
+
+# a1:
+#   a1
+  
+# # v1:
+# w1:
+#   t
+
+
+# a2:
+#   a2
+  
+# # v2:
+# w2:
+#   t  
+
+
+# a3:
+#   a3
+  
+# v1:
+#   f 
+
+
+# //   2021-06-08   12:18:28.75 :- Dragus Alex :-  
+# answer1:
+#   a1
+  
+# # v1:
+# worthhoffanswer1:
+#   t
+
+
+# answer2:
+#   a2
+  
+# # v2:
+# worthhoffanswer2:
+#   t  
+
+
+# answer3:
+#   a3
+  
+# worthhoffanswer3:
+#   f 
+
+
+# //   2021-06-08   12:45:53.89 :- Dragus Alex :- da er in code ca vrea q: dar mai bn modif in cod
+
+
+
+
+
+
+
+question:
+  Cati cai se pot lega maxim la o caruta ?
+
+answer1:
+  # //   2021-06-13    0:37:36.60 :- Dragus Alex :-  # 2
+  # //   2021-06-13    1:49:32.29 :- Dragus Alex :-  ceva err ca int si trebe string poate face cast di la ghilimele
+  # '2'
+  '2 cai'
+  
+  
+  
+# v1:
+worthhoffanswer1:
+  true
+
+
+answer2:
+  2 cai frumosi
+  
+# v2:
+worthhoffanswer2:
+  true  
+
+
+answer3:
+  6 cai
+  
+worthhoffanswer3:
+  false 
+
