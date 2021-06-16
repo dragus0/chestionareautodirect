@@ -1,0 +1,1 @@
+FOR WEB BUILD move questions dir out of assets/assets  but question/pictures dir not
