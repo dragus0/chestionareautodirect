@@ -74,32 +74,38 @@
 
 
 question:
-  q2 ?
+  In ce ordine vor trece prin intersectie cele trei autovehicule?
 
 answer1:
   # //   2021-06-13    0:37:36.60 :- Dragus Alex :-  # 2
   # //   2021-06-13    1:49:32.29 :- Dragus Alex :-  ceva err ca int si trebe string poate face cast di la ghilimele
   # '2'
-  '2 cai'
+  #'2 cai'
+  autobuzul, autocamionul, autoturismul
   
   
   
 # v1:
 worthhoffanswer1:
-  true
+  #true
+  false
 
 
 answer2:
-  2 cai frumosi
+  #2 cai frumosi
+  autocamionul, autobuzul, autoturismul;
   
 # v2:
 worthhoffanswer2:
-  true  
+  #true  
+  false
 
 
 answer3:
-  6 cai
+  #6 cai
+  autoturismul, autobuzul, autocamionul
   
 worthhoffanswer3:
-  false 
+  #false
+  true
 
