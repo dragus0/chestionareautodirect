@@ -77,29 +77,32 @@ question:
   # q1 ?
   # // 06/15/2021 16:55:29 Dragus Alexandru :-  
   # q0 ?
-  q0 edited after build web x
+  #q0 edited after build web x
+  Ce indica efortul mai mare depus la actionarea pedalei de frana?
 
 answer1:
   # //   2021-06-13    0:37:36.60 :- Dragus Alex :-  # 2
   # //   2021-06-13    1:49:32.29 :- Dragus Alex :-  ceva err ca int si trebe string poate face cast di la ghilimele
   # '2'
-  '2 cai'
-  
+  #'2 cai'
+  'griparea cilindrilor receptori si a pistonaselor'
 # v1:
 worthhoffanswer1:
   true
 
 
 answer2:
-  2 cai frumosi
-  
+  #2 cai frumosi
+  ruperea cablului franei de stationare
 # v2:
 worthhoffanswer2:
-  true  
+  #true 
+  false
 
 
 answer3:
-  6 cai
+  #6 cai
+  lipsa lichidului din instalatia de franare
   
 worthhoffanswer3:
   false 
